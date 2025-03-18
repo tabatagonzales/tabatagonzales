@@ -10,7 +10,9 @@ paixao = "Tecnologia"
 objetivo = "Inovar na saúde"
 return f"Combinando {background} com {paixao} para {objetivo}"
 
-print(minha_jornada())```
+print(minha_jornada())
+
+---
 
 🚀 **Apaixonada por criar soluções que unem saúde e tecnologia**  
 🌱 Sempre aprendendo e colaborando em projetos inovadores  
@@ -18,11 +20,6 @@ print(minha_jornada())```
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub:
+💬 **Vamos conectar e criar algo incrível juntos!** 🤝
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tabatagonzales&show_icons=true&theme=radical)](https://github.com/tabatagonzales)
-
----
-
-💬 **Vamos conectar e criar algo incrível juntos!** 🤝  
 📫 Você pode me encontrar [aqui no GitHub](https://github.com/tabatagonzales).
