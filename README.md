@@ -1,4 +1,4 @@
- 👋 Olá! Eu sou a **Tabata Gonzales**   👩‍⚕️💻
+ 👋 Olá! Me chamo **Tabata Gonzales**   👩‍⚕️💻
 
 *Enfermeira apaixonada por inovação, gestão e tecnologia*
 
