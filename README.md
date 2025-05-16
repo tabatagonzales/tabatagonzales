@@ -1,36 +1,66 @@
-### Olá! 👋
 
-👩‍⚕️💻 **Enfermeira em transição para TI | Estudante G8 - ONE | De curativos a códigos, estou aqui para inovar com tecnologia!**
 
-```python Minha jornada
+👩‍⚕️💻 ## 👋 Olá! Eu sou a **Tabata Gonzales**
 
-def minha_jornada():
-background = "Enfermagem"
-paixao = "Tecnologia"
-objetivo = "Inovar na saúde"
-return f"Combinando {background} com {paixao} para {objetivo}"
+*Enfermeira apaixonada por inovação, gestão e tecnologia*
 
-print(minha_jornada())
+🌱 Acredito no poder do aprendizado contínuo e na união entre o cuidado humano e as soluções digitais.
 
----
+ 💡 “A tecnologia só faz sentido quando aproxima pessoas, transforma vidas e potencializa o que temos de melhor.”
 
-🚀 **Apaixonada por criar soluções que unem saúde e tecnologia**  
-🌱 Sempre aprendendo e colaborando em projetos inovadores  
-💡 Transformando experiências clínicas em código para um futuro mais saudável  
+## ✨ Sobre Mim
 
----
-
-💬 **Vamos conectar e criar algo incrível juntos!** 🤝
-
-#### 📫 Vamos conectar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/tabatagonzales/])
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:tabatagonzales@gmail.com)
-
-📫 Você pode me encontrar [aqui no GitHub](https://github.com/tabatagonzales).
+- **Formação:** Bacharel em Enfermagem (UNINOVE)
+- **Gestão:** Mais de 10 anos de experiência em liderança, coordenação de equipes e administração de negócios
+- **Especializações:** Ozonioterapia, Estética Avançada, Desenvolvimento Pessoal G8 - ONE
+- **Tecnologia:** Certificada em Fundamentos da IA Generativa (DIO)  
+- **Estudante:** Atualmente cursando o G8 do programa Oracle One em parceria com a Alura, na trilha Data Science + IA
+- **Curiosa, resiliente e sempre em busca de novos desafios**
 
 ---
 
-"Transformando experiências clínicas em código para um futuro mais saudável.
+## 🚀 Em Transição para Tecnologia
+
+Estou mergulhando no universo tech, com foco em Inteligência Artificial, automação e aplicações inovadoras para saúde e negócios.  
+Recentemente, concluí o curso de Fundamentos da IA Generativa, ampliando minha visão sobre modelos de linguagem, tokenização, atenção e engenharia de prompts.
+
+---
+
+## 🌱 Aprendizados Atuais
+
+- Inteligência Artificial e suas aplicações práticas
+- Ferramentas digitais para otimizar processos em saúde e gestão
+- Desenvolvimento pessoal e soft skills para ambientes inovadores
+
+---
+
+## 💡 Experiências que me moldaram
+
+- **Gestora Geral**: Liderança e administração em empresas do setor de serviços e comércio
+- **Enfermagem**: Cuidado, empatia e visão estratégica para soluções personalizadas
+- **Certificações**: Ozonioterapia, Estética 360, Hidrolipo, Desenvolvimento Pessoal
+
+---
+
+## 💬 **Vamos conectar e criar algo incrível juntos!** 🤝
+
+Me acompanhe no [LinkedIn](https://www.linkedin.com/in/tabatagonzales/) para saber mais sobre minha trajetória, conquistas e próximos passos.  
+Estou aberta a colaborações, mentorias e oportunidades para aprender e contribuir!
+
+---
+
+## 📜 Licenças & Certificações
+
+- Formação em Desenvolvimento Pessoal G8 - ONE (Alura, 2025)
+- Fundamentos da IA Generativa (DIO, 2025).
+- Ozonioterapeuta (Ozonebras, 2021)
+- Estética 360 (Divando na Estética, 2022)
+
+---
+
+**Vamos juntos construir o futuro da saúde, da gestão e da tecnologia!**
+
+
+
 
 
