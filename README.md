@@ -1,6 +1,4 @@
-
-
-👩‍⚕️💻 ## 👋 Olá! Eu sou a **Tabata Gonzales**
+ 👋 Olá! Eu sou a **Tabata Gonzales**   👩‍⚕️💻
 
 *Enfermeira apaixonada por inovação, gestão e tecnologia*
 
@@ -8,7 +6,7 @@
 
  💡 “A tecnologia só faz sentido quando aproxima pessoas, transforma vidas e potencializa o que temos de melhor.”
 
-## ✨ Sobre Mim
+# ✨ Sobre Mim
 
 - **Formação:** Bacharel em Enfermagem (UNINOVE)
 - **Gestão:** Mais de 10 anos de experiência em liderança, coordenação de equipes e administração de negócios
@@ -19,10 +17,13 @@
 
 ---
 
-## 🚀 Em Transição para Tecnologia
+## 🌍 Transição para Tecnologia e Oportunidades
 
 Estou mergulhando no universo tech, com foco em Inteligência Artificial, automação e aplicações inovadoras para saúde e negócios.  
-Recentemente, concluí o curso de Fundamentos da IA Generativa, ampliando minha visão sobre modelos de linguagem, tokenização, atenção e engenharia de prompts.
+Estou aberta a novas oportunidades profissionais, tanto no Brasil quanto internacionalmente.  
+Tenho grande interesse em colaborar com equipes inovadoras, contribuir para projetos de impacto e crescer em ambientes multiculturais - especialmente nas áreas de tecnologia, ciência de dados, inteligência artificial e saúde digital.
+
+Se você busca alguém comprometida, adaptável e pronta para aprender e agregar valor, vamos conversar!
 
 ---
 
